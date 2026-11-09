@@ -1,0 +1,12 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Node
+secops-hud/node_modules/
+secops-hud/dist/
+secops-hud/.env
+
+# OS
+.DS_Store
